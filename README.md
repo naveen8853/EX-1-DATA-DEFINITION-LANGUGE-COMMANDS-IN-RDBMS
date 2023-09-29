@@ -27,7 +27,7 @@ create table student (RollNo NUMBER,Name char(20),Age NUMBER,Address char(20),Ph
 ```
 ### OUTPUT:
 
-![](1.1(2).png)
+![](1.1 (2).png)
 
 ### 2) Change the above student table by adding another attribute department
 
