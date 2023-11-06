@@ -1,5 +1,5 @@
 # EXP NO 1: DATA DEFINITION LANGUGE COMMANDS IN RDBMS
-
+### DATE: 04/08/2023
 ## AIM:
 To create a student database and execute DDL queries using SQL.
 
@@ -69,3 +69,5 @@ TRUNCATE TABLE student;
 
 ![](1.5.png)
 
+### Result:
+Thus the DDL queries using SQL to create a student database has been executed and verified successfully.
